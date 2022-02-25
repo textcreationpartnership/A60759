@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some animadversions on the paper delivered to the sheriffs, on Friday December the 7th 1683, by Algernon Sidney, Esq. before he was executed</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60759</idno>
+            <idno type="STC">Wing S4473</idno>
+            <idno type="STC">ESTC R13454</idno>
+            <idno type="EEBO-CITATION">11914787</idno>
+            <idno type="OCLC">ocm 11914787</idno>
+            <idno type="VID">50914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60759)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50914)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some animadversions on the paper delivered to the sheriffs, on Friday December the 7th 1683, by Algernon Sidney, Esq. before he was executed</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.C. for John Cox ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sidney, Algernon, 1622-1683.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50914:1"/>
+            <pb n="1" facs="tcp:50914:1" rendition="simple:additions"/>
+            <head>SOME ANIMADVERSIONS ON THE PAPER Delivered to the SHERIFFS, On <hi>Friday December,</hi> the <hi>7th</hi> 1683. BY Algernon Sidney, <abbr>Eſq</abbr>; Before he was Executed.</head>
+            <p>THE old <hi>Sophiſters</hi> of the Re<g ref="char:EOLhyphen"/>bellion, (ſince the diſcovery of the <hi>Plot,</hi>) have been won<g ref="char:EOLhyphen"/>derfully induſtrious in ſpreading many inconſiſtent rumors, that might, (if poſſible) have ſtifled, and diſcredit<g ref="char:EOLhyphen"/>ed its Authority. That ſtupendous piece of Villany contriv'd by <hi>Anti-mo<g ref="char:EOLhyphen"/>narchical, Atheiſtical Re-publicans,</hi> is repreſented (to the unthinking Mul<g ref="char:EOLhyphen"/>titude) as an airy fantom, and illu<g ref="char:EOLhyphen"/>ſion, a trick of State, and I know not what beſides. Theſe tricks and ſhams, our projective <hi>Conſpirators</hi> imagin, will undoubtedly have a great influence on the tempers of the People, create doubts and jealouſys and ſup<g ref="char:EOLhyphen"/>port the ſpirits of their Party, amidſt ſo many wonderful diſappointments. Their Deſign is yet deeper, they would fain amuſe the World, and ha<g ref="char:EOLhyphen"/>rangue upon their Innocency, that they might more ſecurely and more ſuccesfully go on in their <hi>Reſolv'd</hi> at<g ref="char:EOLhyphen"/>tempts againſt the Government.</p>
+            <p>Not only the language of the <hi>Li<g ref="char:EOLhyphen"/>ving,</hi> ſays, but the <hi>Dead</hi> ſpeak, That the <hi>Plot</hi> is at an end, that the In<g ref="char:EOLhyphen"/>nocence of the late Sufferers is ſo very conſpicuous, that the <hi>World</hi> is ſtrangely infatuated, if they credit the leaſt part of this <hi>Fanatik Conſpi<g ref="char:EOLhyphen"/>racy. Egregious ſophiſms!</hi>
+            </p>
+            <p>I am ſorry to find that this <hi>furor Fanaticus,</hi> this impetuous, prepo<g ref="char:EOLhyphen"/>ſterous Zeal, ſhould hurry Men, into theſe Acts of Imprudence, and ſelf-juſtification, even in that minute which launches them into <hi>Eternity,</hi> brings them before a <hi>Tribunal,</hi> where
+<pb n="2" facs="tcp:50914:2"/>there is no <hi>Corruption of Jury</hi>'s, on one hand; Nor no hypocritical pre<g ref="char:EOLhyphen"/>tences and evaſions on the other, that can excuſe or divert the deſerved ſen<g ref="char:EOLhyphen"/>tence.</p>
+            <p>I am concern'd likewiſe, that the <hi>Faction</hi> are Reſolv'd, to defend them<g ref="char:EOLhyphen"/>ſelves in all thoſe manifeſt Acts of Rebellion, as it has been apparent in my Lord <hi>Ruſſel</hi>'s Caſe, and of this late unhappy Gentleman Mr. <hi>Sidney,</hi> who directly follows his ſteps in point of Juſtification.</p>
+            <p>I have a great reſpect for Truth, and Plain-Dealing; I ſhall therefore modeſtly comport my ſelf within the decent Rules of ſobriety and calm<g ref="char:EOLhyphen"/>neſs; ſince I conſider how I'me to reflect on the behaviour of the <hi>Dead,</hi> who (I know) are in no capacity to make a Vindication of their actions.</p>
+            <p>I ſhall not put the words of the De<g ref="char:EOLhyphen"/>ceaſed Gentleman upon the Rack, to make them confeſs more than they would; But begin to Anatomize ſome particulars, which may be moſt pernicious in the conſequence, if they are imbib'd for Truth, and receiv'd as Goſpel, amongſt the undigeſting multitude. Paſſing by his <hi>Apoſtoli<g ref="char:EOLhyphen"/>cal Addreſs</hi> [<hi>Men, Brethren,</hi> &amp;c.] and his excuſe for not ſpeaking freely, becauſe of the cold Weather and the Infirmity of Old Age, and a cloſe confinement, I ſhall conſider his opi<g ref="char:EOLhyphen"/>nion of the preſent Age, which he ſays makes [<hi>Truth paſs for Treaſon.</hi>] He would have notably ſtigmatiz'd it, but he was afraid the people wou'd not reliſh ſuch Popular pieces of ſcan<g ref="char:EOLhyphen"/>dal. [Their ears wou'd be too tender to hear it.] This is a wonderful fit of ſqueamiſhneſs indeed, ſince he muſt needs know, that the <hi>Defenders</hi> of the OLD CAUSE, would have made great improvement of it. <hi>Fortiter calumniari aliquid haerebit.</hi> [Weſt, Rumſey, <hi>and</hi> Keyling, (he ſays) <hi>knew him not, and others made uſe of his, and of others Names to give Repu<g ref="char:EOLhyphen"/>tation to their deſigns; the Lord</hi> Ho<g ref="char:EOLhyphen"/>ward, <hi>is an infamous Perjur'd Man, who drudg'd, and forſwore himſelf in expectation of the promis'd Pardon.</hi>] 'Tis no wonder to hear Witneſſes branded with ſuch opprobrious Cha<g ref="char:EOLhyphen"/>racters, ſince the perſons concern'd, propoſe to themſelves, that the diſ-re<g ref="char:EOLhyphen"/>putation of the Evidence is an argu<g ref="char:EOLhyphen"/>ment of their Innocence, and that by making them <hi>Reprobates,</hi> they them<g ref="char:EOLhyphen"/>ſelves ſhould become Saints. 'Tis po<g ref="char:EOLhyphen"/>litickly done I confeſs, but the cheat can't paſs upon all people. None but ill perſons would engage in Conſpiracy 'tis true; but the thing once detected, how is it poſſible the Principal Actors ſhould be puniſhed, unleſs their Bro<g ref="char:EOLhyphen"/>ther Conſpirators (tho <hi>dipt in it</hi> themſelves as my Lord <hi>Ruſſel</hi> has it) ſhould give Evidence againſt them? All Treaſons muſt of neceſſity be un<g ref="char:EOLhyphen"/>puniſhable, if ſuch Witneſſes are not allowed.</p>
+            <p>[<hi>The ſtreſs of the matter</hi> (he ſays) <hi>lyes in the Papers taken in his Cloſet by the Kings Officers, not prov'd to be his; but by the ſimilitude of an hand which is to be eaſily counterfeited.</hi>] By his leave, the matters were not wholly reduc'd to the Papers, tho thoſe are bad enough by his own confeſſion. A ſmall Bill, or a compendious Letter may be counterfeited probably, and a perſon haſtily peruſing it may be de<g ref="char:EOLhyphen"/>ceiv'd; But a conſtant entercourſe of Letters, and diligent obſerving, and comparing the Characters, deſtroys ſuch a Cheat.</p>
+            <p>Mr. <hi>Sidney</hi> on his Tryal, denies himſelf to be the Author of thoſe dangerous wicked Principles (as he calls <hi>Filmers</hi>) contain'd in his <hi>Trea<g ref="char:EOLhyphen"/>tiſe,</hi> yet here he frankly confeſſes the whole, and tells the World (without any haetſiation, what his opinion and principles are; To refute which, it would take up a conſiderable time, which a ſhort reflection upon this <hi>very Speech</hi> will not allow.</p>
+            <pb n="3" facs="tcp:50914:2"/>
+            <p>However I ſhall touch ſlightly upon it. He pretends his ſheets were an Anſwer to Sir <hi>Robert Filmers</hi> Patri<g ref="char:EOLhyphen"/>archa, and <hi>challenges a Liberty to ex<g ref="char:EOLhyphen"/>preſs his thoughts</hi> in oppoſition to <hi>Kingly Government,</hi> which Sir <hi>Robert</hi> pleads for. His <hi>Anti-monarchical</hi> Principles are too too evident by <hi>all</hi> the actions of his Life; his opinion, or Article of his Creed, is this, [<hi>I Believe that God hath left Nations unto the Liberty of ſetting up ſuch Govern<g ref="char:EOLhyphen"/>ment as beſt pleaſed themſelves.</hi>] Without doubt Mr. <hi>Algernon</hi> was for the people's doing again what <hi>ſeem'd right in their own Eyes,</hi> and for having <hi>no King in Iſrael.</hi> Our Pſeudo-Pro<g ref="char:EOLhyphen"/>teſtant and Jeſuitical Caſuiſt again tells ye, That <hi>the Laws give Power to the Magiſtrate.</hi> Woful experience n<g ref="char:EOLhyphen"/>forms us, what ſacred Blood was ſpilt, upon Proſecuting this Rebelli<g ref="char:EOLhyphen"/>ous <hi>Topique.</hi> See the Tryal of King <hi>Charles</hi> the Firſt, and you'l find <hi>Brad<g ref="char:EOLhyphen"/>ſhaw</hi> ſpeak the very Language of our Colonel. The Preſident tells his <hi>Ma<g ref="char:EOLhyphen"/>jeſty, The Law is your Maſter, the Law is your Superiour, Debent ei ponere fraenum. Rex eſt dum bene Regit,</hi> and no longer, if the <hi>Plenipotentiary</hi>'s the people pleaſe. I fancy that 'tis equally poſſible to draw a parallel 'twixt the avowed principles of our diſcontented Stateſman, and thoſe of the Sophi<g ref="char:EOLhyphen"/>ſtical canting Preſident, as 'twixt the <hi>Covenant,</hi> and <hi>Aſſociation.</hi> Mr. <hi>Sidney</hi> allows that the people make <hi>Choice of their Governors;</hi> if ſo, 'tis certain they can depoſe them <hi>ad libitum.</hi> For that which creates a power muſt of neceſſity be Superiour to that power it creates. What a ſilly buſineſs then is a King? (which is or really ſhould be <hi>Legibus ſolutus,</hi> otherwiſe He cann't be Supreme.) I ſay, What a triffle is a Crown, if it can be given and taken according to the giddy humor of a freakiſh Multitude? We may deny his ſuppoſitions likewiſe about his Election of Kings, which muſt be either by a unanimous Conſent of a whole Nation; which is ridiculous: For never was a publick, General Meeting of a whole Kingdom known for Election of a Prince; If there had been, one Diſſenter would have taken away the Unanimity. If he talk't of the Major Part or Chuſing by Proxy, his Arguments will be found deficient likewiſe; But 'tis im<g ref="char:EOLhyphen"/>poſſible to unravel all the particu<g ref="char:EOLhyphen"/>lars. He may talk of the King of <hi>France</hi>'s modeſty, and his boaſting of the <hi>happy want</hi> of Power; yet the whole World knows how little he confines himſelf to theſe thin Cob<g ref="char:EOLhyphen"/>webs, the Laws, which he breaks at pleaſure. Take then every Para<g ref="char:EOLhyphen"/>graph diſtinctly by its ſelf, and you'l find abominable Principles couch't under it; which once believ'd, would be deſtructive of any Government whatſoever. Take it altogether, 'tis a virulent Reflection and Libel a<g ref="char:EOLhyphen"/>gainſt this. <hi>His Jury is pick't, who could not judg of the nature of ſuch a Treaſonable Pamphlet:</hi> There were Perſons of Underſtanding and E<g ref="char:EOLhyphen"/>ſtates Return'd, but his exceptions were againſt them; thinking by his flaſhes of Rhetorick to win the o<g ref="char:EOLhyphen"/>thers into an opinion of his Inno<g ref="char:EOLhyphen"/>cence.</p>
+            <p>Bur here comes the <hi>Epitome</hi> of ſcandal: [<hi>I was long ſince told I muſt Die, or the Plot muſt Die.</hi>] This is fine impeaching the Juſtice of the Nation; What! Does he make <hi>Abingdon</hi> Laws now in faſhion? Hang a Man right or wrong. Sure no; He had all the favour in the World ſhown him, that a Perſon in his circumſtances could expect, or de<g ref="char:EOLhyphen"/>ſire.</p>
+            <p>But here obſerve Malice and Ran<g ref="char:EOLhyphen"/>cour mixt with Scandal: [<hi>Leſt the means of deſtroying the beſt Prote<g ref="char:EOLhyphen"/>ſtants ſhould fail, the Bench is fill'd with former blemiſhes of the Bar.</hi>] Old Dogs never bite, but when they bite ſure. Lord! What horrible Days of Perſecution are theſe! the
+<pb n="4" facs="tcp:50914:3"/>the beſt Proteſtants, <hi>i. e.</hi> Rebellious Diſſenters are condemn'd like Dogs, by a parcel of Men, who <hi>Sacrificed to the Idols of Mr.</hi> Williams'<hi>s Chair.</hi> Alas! if he means ſo, their Memo<g ref="char:EOLhyphen"/>ries (notwithſtanding his detracti<g ref="char:EOLhyphen"/>ons) will ſmell ſweet, when the acti<g ref="char:EOLhyphen"/>ons of a raſh Tyrannical Club of Re<g ref="char:EOLhyphen"/>publicans, will ſtink down to Poſte<g ref="char:EOLhyphen"/>rity.</p>
+            <p>I ſhall not fall to the diſſection of ſome other matters, but tell you, That (without <hi>Innuendo's</hi>) all theſe dangerous Juſtifications (which are eſſential to our True-Proteſtants) are purely Deſign'd to Poyſon the People, to animate them to a vigo<g ref="char:EOLhyphen"/>rous Proſecution of their beloved Plot; which by our Colonels Death will not dwindle into Air, but <hi>live,</hi> and be a ſcandal for ever to the Par<g ref="char:EOLhyphen"/>ty, whom he eſpouſes.</p>
+            <p>Now for the <hi>ſpirit</hi> of a Non.Con: [<hi>Forgive theſe Practiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and avert the Evils,</hi> &amp;c.] [<hi>Suffer not Idolatry to be Eſtabliſh'd in the Land.</hi>] This is much the ſame with my Lord <hi>Ruſſel's: I do believe Popery is coming into the Land.</hi> This <hi>Bugbear</hi> is known by all of them, to be a ſucceſsful buſineſs towards the Proſecution of their ir<g ref="char:EOLhyphen"/>religious ends.</p>
+            <p>Laſtly, Be aſtoniſh't, <hi>Reader,</hi> at that ſinful ſecurity wherein he prides himſelf. <hi>Tantum Religio potuit ſua<g ref="char:EOLhyphen"/>dere malorum!</hi> Was ever a Villany ſo Patroniz'd as this <hi>OLD CAUSE</hi> in Capitals? See how he juſtifies the Rebellious actions of his <hi>Youth,</hi> and makes Heaven to Vindicate 'em: As if the permiſſion of God Almighty were an approbation; which is a ve<g ref="char:EOLhyphen"/>ry ſinful inference.</p>
+            <p>In ſhort, I wish all People would conſult their own Intereſt, and not follow the footſteps of our late Re<g ref="char:EOLhyphen"/>ſolute Rebels, who make Treaſon Meritorious. But if any have been withdrawn, and ſeduced, let them early Repent, that they may divert the like Fatal Sentence that is infalli<g ref="char:EOLhyphen"/>bly due to all Factious Conſpirators.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>G. C.</hi> for <hi>John Cox,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-ſtreet,</hi> over-againſt <hi>Baynards-Caſtle.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
